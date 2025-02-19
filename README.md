@@ -1,4 +1,4 @@
-# Falcon Metalworking (FICTION - DEMO WEBSIE)
+# Falcon Metalworking (FICTION - DEMO WEBSITE)
 
 [Website](https://falcon.starlight-foss.org/en/)
 
